@@ -2,6 +2,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![](screenshot.png)
 
+### Dockerfile檔案			
+
+* `Dockerfile`: 用於測試專案開發(Image大小約1.4 GB)，連接到http://localhost:3000
+* `Dockerfile.prod`: 用於正是專案開發(Image大小約172.4 MB)，連接到http://localhost:80
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
